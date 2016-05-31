@@ -6,6 +6,7 @@
 
 #include "device.h"
 
+// NOTE follow this example: https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/examples/HTTPSRequest/HTTPSRequest.ino
 
 extern "C" {
 // need to include this SDK header as we need to call some of the SDK directly
